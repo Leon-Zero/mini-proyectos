@@ -29,7 +29,7 @@ h4{
   opacity: 0;
   color: #f5f5f5;
   text-shadow: 2px 2px 6px #132eb2;
-  transition: all cubic-bezier(0.075, 0.82, 0.165, 1) .8s;
+  transition: all cubic-bezier(0.075, 0.82, 0.165, 1) .5s;
   text-transform: uppercase;
 }
 img:nth-child(n) {
